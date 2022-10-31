@@ -5,7 +5,8 @@
   "main": "frontentd/src/index.js",
   "scripts": {
     "build": "npm run build --prefix frontend",
-    "start": "start-server -s ./frontend/build"
+    "start": "start-server -s ./frontend/build",
+    "install": "cd frontend && npm ci"
   },
   "repository": {
     "type": "git",
