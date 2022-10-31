@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/vkaplin/frontend-project-12/issues"
   },
-  "homepage": "https://github.com/vkaplin/frontend-project-12#readme"
+  "homepage": "https://github.com/vkaplin/frontend-project-12#readme",
+  "dependencies": {
+    "@hexlet/chat-server": "^1.1.6"
+  }
 }
